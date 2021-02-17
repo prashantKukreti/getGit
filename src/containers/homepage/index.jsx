@@ -8,7 +8,7 @@ import { ServicesSection } from "./servicesSection";
 import { TopSection } from "./topSection";
 
 const PageContainer = styled.div`
-  width: 100%;
+  width: 200%;
   height: 100%;
   display: flex;
   flex-direction: column;
